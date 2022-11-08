@@ -1,1 +1,1 @@
-# NewsPortal_Oauth_D8.6
+# NewsPaper_Oauth_D8.6
